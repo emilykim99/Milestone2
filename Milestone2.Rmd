@@ -1,0 +1,16 @@
+---
+title: "Milestone2"
+author: "Emily Kim"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+#Sabrina Chok: United States Federal Crime Data
+This project is clear, efficient, and compelling, advancing a straightforward representation of a rising sociopolitical phenomonon in the United States. It's strengths definitely lie in its dynamic and streamlined aesthetic presentation; the animated graphic, in example, is quite striking. The details are truly well-executed, from the colors to the hover graphics. 
+
+#Jefferey Huang: Money, Efficiency, and Education
+This is a project thorough in both its quantitative facilities, as well as its integration and demonstration of theoretical social logics in its usage of data science. There is a rich range of data compiled and represented here, but presented and analyzed in a way that advances a multi-faceted argument relating to social science-- in this case, the California state education system. Its strengths definitely lie in the sheer breadth and depth of data utilized, but also in its organizational structure. The only con I can consider is perhaps, aesthetically, it could be slightly more impactful in terms of how the text is presented. 
+
